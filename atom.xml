@@ -6,7 +6,7 @@
   <link href="http://yanghang0.github.io/atom.xml" rel="self"/>
   
   <link href="http://yanghang0.github.io/"/>
-  <updated>2021-11-29T06:07:50.494Z</updated>
+  <updated>2021-11-29T09:40:27.229Z</updated>
   <id>http://yanghang0.github.io/</id>
   
   <author>
@@ -21,11 +21,21 @@
     <link href="http://yanghang0.github.io/2021/11/29/My-New-Post/"/>
     <id>http://yanghang0.github.io/2021/11/29/My-New-Post/</id>
     <published>2021-11-29T06:07:50.000Z</published>
-    <updated>2021-11-29T06:07:50.494Z</updated>
+    <updated>2021-11-29T09:40:27.229Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="fisrt-post-test"><a href="#fisrt-post-test" class="headerlink" title="fisrt post test"></a>fisrt post test</h2><p>这是php代码：</p><figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">add_filter( <span class="string">&#x27;get_the_excerpt&#x27;</span>, <span class="string">&#x27;get_the_only_excerpt&#x27;</span> );</span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">get_the_only_excerpt</span>(<span class="params"> <span class="variable">$excerpt</span> </span>)</span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">if</span> ( <span class="string">&#x27;&#x27;</span> == <span class="variable">$excerpt</span> ) &#123;</span><br><span class="line">        <span class="keyword">return</span> <span class="string">&#x27;&#x27;</span>;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> <span class="variable">$excerpt</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;fisrt-post-test&quot;&gt;&lt;a href=&quot;#fisrt-post-test&quot; class=&quot;headerlink&quot; title=&quot;fisrt post test&quot;&gt;&lt;/a&gt;fisrt post test&lt;/h2&gt;&lt;p&gt;这是php代码：&lt;/p&gt;
+&lt;figu</summary>
+      
     
     
     
     
+    <category term="post" scheme="http://yanghang0.github.io/tags/post/"/>
     
   </entry>
   
