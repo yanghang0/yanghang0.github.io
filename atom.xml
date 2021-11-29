@@ -3,11 +3,11 @@
   <title>渺若尘沙</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://yanghang0.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2021-11-26T07:03:24.275Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://yanghang0.github.io/"/>
+  <updated>2021-11-29T06:07:50.494Z</updated>
+  <id>http://yanghang0.github.io/</id>
   
   <author>
     <name>杨航</name>
@@ -17,9 +17,22 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>My New Post</title>
+    <link href="http://yanghang0.github.io/2021/11/29/My-New-Post/"/>
+    <id>http://yanghang0.github.io/2021/11/29/My-New-Post/</id>
+    <published>2021-11-29T06:07:50.000Z</published>
+    <updated>2021-11-29T06:07:50.494Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/11/26/hello-world/"/>
-    <id>http://example.com/2021/11/26/hello-world/</id>
+    <link href="http://yanghang0.github.io/2021/11/26/hello-world/"/>
+    <id>http://yanghang0.github.io/2021/11/26/hello-world/</id>
     <published>2021-11-26T07:03:24.275Z</published>
     <updated>2021-11-26T07:03:24.275Z</updated>
     
