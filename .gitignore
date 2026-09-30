@@ -1,0 +1,16 @@
+# WorkBuddy 工作区数据（记忆、验证产物等），不进仓库
+.workbuddy/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 临时文件
+*.tmp
+*.bak
+*.log
+*.orig
+*~
